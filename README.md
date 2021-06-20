@@ -1,4 +1,4 @@
-# [Kodluyoruz Frontend 101](https://github.com/erdinckurt/kodluyoruz-frontend-101-egitimi) Egitimi HTML Temelleri Bolumu Ilk Odev
+# [Kodluyoruz Frontend 101](https://github.com/erdinckurt/kodluyoruz-frontend-101-egitimi) Eğitimi HTML Temelleri Bölümü İlk Ödev
 
 Bu ödevde kısaca kendimden bahsettim.
 
