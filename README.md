@@ -2,4 +2,4 @@
 
 Bu ödevde kısaca kendimden bahsettim.
 
-[Click to see](https://erdinckurt.github.io/frontend-101-html-ilk-odev/)
+[Görmek için tıklayın](https://erdinckurt.github.io/frontend-101-html-ilk-odev/)
